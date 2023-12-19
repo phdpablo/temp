@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "PLS-SEM Interactive Tutorial"
+  subtitle: "Step-by-Step with cSEM package"
+  author: "Pablo Rogers"
+  date: "19/12/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - background.qmd
+    - example.qmd
+    - tutorial.qmd
+    - considerations.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: lumen
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

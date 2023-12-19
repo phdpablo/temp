@@ -1,0 +1,3 @@
+# Working in progress
+
+Article repository "PLS-SEM Interactive Tutorial: Step-by-Step with cSEM package".
