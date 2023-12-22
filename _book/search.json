@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PLS-SEM Interactive Tutorial",
     "section": "",
-    "text": "Abstract\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Abstract\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\n\n\nCitation\n\n\nLicence\n\nThis work is licensed under Attribution-NonCommercial 4.0 International"
   },
   {
     "objectID": "intro.html",
@@ -25,7 +25,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Abdurrob, Abdurrahman, and Martin Kulldorff. 2016. “Advanced\nOptions.” Boston.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "background.html",

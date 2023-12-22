@@ -1,16 +1,6 @@
-# Abstract {.unnumbered}
+# Working in progress
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
-
-# Citation
-
-
+Article repository "PLS-SEM Interactive Tutorial: Step-by-Step with cSEM package".
 
 # License
 
