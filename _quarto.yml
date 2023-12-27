@@ -5,8 +5,8 @@ execute:
   #echo: false
   warning: false
 book:
-  title: "PLS-SEM Interactive Tutorial"
-  subtitle: "Step-by-Step with cSEM package"
+  title: "Smart Choices for Measurement Models"
+  subtitle: "Dynamic Tutorial for your Confirmatory Factor Analysis in R Environment"
   author: "Pablo Rogers"
   date: last-modified
   date-format: "DD/MM/YY"
@@ -28,11 +28,11 @@ book:
   
   chapters:
     - index.qmd
-    - intro.qmd
-    - background.qmd
-    - example.qmd
-    - tutorial.qmd
-    - considerations.qmd
+    - 01-intro.qmd
+    - 02-smart-choices.qmd
+    - 03-model.qmd
+    - 04-tutorial.qmd
+    - 05-considerations.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -47,8 +47,8 @@ format:
     #css: style.css
     #code-link: true
     theme:
-      light: [sketchy, psycho-theme.scss]
-      dark: [sketchy, psycho-dark.scss]
+      light: flatly
+      dark: darkly
     number-sections: true
     link-external-newwindow: true
     fig-width: 5

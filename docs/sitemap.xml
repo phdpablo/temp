@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://phdpablo.github.io/PLScSEM/index.html</loc>
-    <lastmod>2023-12-27T14:58:43.953Z</lastmod>
+    <lastmod>2023-12-27T19:56:20.223Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/intro.html</loc>
-    <lastmod>2023-12-27T14:58:20.228Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/01-intro.html</loc>
+    <lastmod>2023-12-27T19:56:05.802Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/background.html</loc>
-    <lastmod>2023-12-27T14:58:20.231Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/02-smart-choices.html</loc>
+    <lastmod>2023-12-27T19:55:49.217Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/example.html</loc>
-    <lastmod>2023-12-27T14:58:20.235Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/03-model.html</loc>
+    <lastmod>2023-12-27T19:55:49.221Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/tutorial.html</loc>
-    <lastmod>2023-12-27T14:58:20.238Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/04-tutorial.html</loc>
+    <lastmod>2023-12-27T19:55:49.223Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/considerations.html</loc>
-    <lastmod>2023-12-27T14:58:20.241Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/05-considerations.html</loc>
+    <lastmod>2023-12-27T19:55:49.227Z</lastmod>
   </url>
   <url>
     <loc>https://phdpablo.github.io/PLScSEM/references.html</loc>
-    <lastmod>2023-12-27T14:58:20.245Z</lastmod>
+    <lastmod>2023-12-27T19:55:49.229Z</lastmod>
   </url>
   <url>
-    <loc>https://phdpablo.github.io/PLScSEM/PLS-SEM-Interactive-Tutorial.pdf</loc>
-    <lastmod>2023-12-27T14:58:18.857Z</lastmod>
+    <loc>https://phdpablo.github.io/PLScSEM/Smart-Choices-for-Measurement-Models.pdf</loc>
+    <lastmod>2023-12-27T19:55:47.943Z</lastmod>
   </url>
 </urlset>
