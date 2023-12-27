@@ -1,12 +1,31 @@
 project:
   type: book
   output-dir: docs
-
+execute: 
+  #echo: false
+  warning: false
 book:
   title: "PLS-SEM Interactive Tutorial"
   subtitle: "Step-by-Step with cSEM package"
   author: "Pablo Rogers"
-  date: "19/12/2023"
+  date: last-modified
+  date-format: "DD/MM/YY"
+  #doi:
+  cover-image: img/cover.png
+  downloads: pdf
+  reader-mode: true
+  sidebar:
+    align: left
+    collapse-level: 1
+  page-footer:
+    left: <a href="https://www.phdpablo.com">by Pablo Rogers</a>
+    right: This article was built with <a href="https://quarto.org/">Quarto</a> 
+  site-url: "https://phdpablo.github.io/PLScSEM/"
+  repo-url: "https://github.com/phdpablo/PLScSEM/"
+  #repo-actions: [edit,issue]
+  sharing: [twitter, facebook, linkedin]
+  open-graph: true
+  
   chapters:
     - index.qmd
     - intro.qmd
@@ -20,9 +39,47 @@ bibliography: references.bib
 
 format:
   html:
-    theme: lumen
+    title-block-style: none
+    toc: true
+    collapse: true
+    html-math-method: mathjax
+    #include-in-header: header-includes.html
+    #css: style.css
+    #code-link: true
+    theme:
+      light: [sketchy, psycho-theme.scss]
+      dark: [sketchy, psycho-dark.scss]
+    number-sections: true
+    link-external-newwindow: true
+    fig-width: 5
+    fig-height: 5
+    fig-align: left
+  
   pdf:
-    documentclass: scrreprt
+    title: "PLS-SEM Interactive Tutorial"
+    subtitle: "Step-by-Step with cSEM package"
+    documentclass: article
+    papersize: A4
+    #abstract: "Working in progress"
+    top-level-division: section
+    #code-block-bg: gray
+    geometry:
+      - paperwidth=8.00in
+      - paperheight=10.00in
+      - left=1.25in
+      - textwidth= 5.25in
+      - top=1.00in
+      - textheight=8.25in
+      #- showframe
+    #include-in-header: preamble.tex
+    #include-before-body: first.tex
+    #include-after-body: backcover.tex
+    toc: false
+    colorlinks: true
+    fig-width: 5
+    fig-height: 5
+    fig-align: left
+    keep-tex: true
 
 editor: visual
 
