@@ -8,8 +8,8 @@ book:
   title: "PLS-SEM Interactive Tutorial"
   subtitle: "Step-by-Step with cSEM package"
   author: "Pablo Rogers"
-  date: last-modified
-  date-format: "DD/MM/YY"
+  date: 12/27/2023
+  date-format: long
   #doi:
   cover-image: img/cover.png
   downloads: pdf
