@@ -1,9 +1,7 @@
 project:
   type: book
   output-dir: docs
-execute: 
-  #echo: false
-  warning: false
+
 book:
   title: "PLS-SEM Interactive Tutorial"
   subtitle: "Step-by-Step with cSEM package"
@@ -39,22 +37,7 @@ bibliography: references.bib
 
 format:
   html:
-    title-block-style: none
-    toc: true
-    collapse: true
-    html-math-method: mathjax
-    #include-in-header: header-includes.html
-    #css: style.css
-    #code-link: true
-    theme:
-      light: [sketchy, psycho-theme.scss]
-      dark: [sketchy, psycho-dark.scss]
-    number-sections: true
-    link-external-newwindow: true
-    fig-width: 5
-    fig-height: 5
-    fig-align: left
-  
+    theme: lumen
   pdf:
     documentclass: article
     papersize: A4
