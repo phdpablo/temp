@@ -6,7 +6,24 @@ book:
   title: "PLS-SEM Interactive Tutorial"
   subtitle: "Step-by-Step with cSEM package"
   author: "Pablo Rogers"
-  date: "19/12/2023"
+  date: 12/27/2023
+  date-format: long
+  #doi:
+  cover-image: img/cover.png
+  downloads: pdf
+  reader-mode: true
+  sidebar:
+    align: left
+    collapse-level: 1
+  page-footer:
+    left: <a href="https://www.phdpablo.com">by Pablo Rogers</a>
+    right: This article was built with <a href="https://quarto.org/">Quarto</a> 
+  site-url: "https://phdpablo.github.io/PLScSEM/"
+  repo-url: "https://github.com/phdpablo/PLScSEM/"
+  #repo-actions: [edit,issue]
+  sharing: [twitter, facebook, linkedin]
+  open-graph: true
+  
   chapters:
     - index.qmd
     - intro.qmd
