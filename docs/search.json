@@ -4,21 +4,7 @@
     "href": "index.html",
     "title": "PLS-SEM Interactive Tutorial",
     "section": "",
-    "text": "Abstract\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#citation",
-    "href": "index.html#citation",
-    "title": "PLS-SEM Interactive Tutorial",
-    "section": "Citation",
-    "text": "Citation"
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "PLS-SEM Interactive Tutorial",
-    "section": "License",
-    "text": "License\n\nThis work is licensed under Attribution-NonCommercial 4.0 International"
+    "text": "Citation:\n\nAbstract\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "intro.html",

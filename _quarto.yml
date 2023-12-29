@@ -56,8 +56,6 @@ format:
     fig-align: left
   
   pdf:
-    title: "PLS-SEM Interactive Tutorial"
-    subtitle: "Step-by-Step with cSEM package"
     documentclass: article
     papersize: A4
     #abstract: "Working in progress"
